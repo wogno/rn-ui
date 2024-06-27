@@ -1,1 +1,21 @@
 # rn-ui
+Components:
+  - buttons(loading, icon)
+  - input: (bottom, arrect, focus)
+  - bottom sheet
+  - card(header, content, footer)
+  - floating button
+  - otp
+  - modal(native, custom)
+  - toast
+  - badge
+  - switch
+  - select
+  - context menu
+  - datepicker
+  - skeleton
+  - calendar
+  - dropdwn
+  - select(with search, and creatable)
+  - searchinput
+  - slider
